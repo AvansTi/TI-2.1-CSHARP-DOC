@@ -2,21 +2,25 @@
 layout: default
 title: Week 1
 ---
-# Week 1
+# C# Programmeren
 {% include_relative /licence.md %}
 ---
 
-# Assignments week 1
+## Doel:
+Tijdens het eerste practicum ga je kennis maken met Visual Studio en een aantal
+basisconcepten in C#. Hierbij zijn opgave 1 en 2 oefenopdrachten en opgave 3
+is een eindopdracht. De eindopdracht laat je volgende les zien aan jouw docent.
 
-{% include week01/exercise/01-character-search.md %}
+---
+
+# Opgaven week 1
+
+{% include week01/exercise/01-time-struct.md %}
 {: .exercises }
 
-{% include week01/exercise/02-number-validator.md %}
+{% include week01/exercise/02-controlegetal.md %}
 {: .exercises }
 
-{% include week01/exercise/03-counting-characters.md %}
+{% include week01/exercise/03-eindopdracht-week1.md %}
 {: .exercises }
-
-{% include week01/exercise/04-matrix-sum.md %}
-{: .exercises }
-End of week 1
+Einde van week 1
