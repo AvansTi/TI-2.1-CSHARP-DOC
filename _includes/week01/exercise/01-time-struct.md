@@ -22,8 +22,6 @@
 >>Schrijf testcode om je  programma te testen.
 >>De volgende onderdelen gaan verder met deze `Time` structuur.
 >>
->>---
->>
 >>### Opgave 1.2.1
 >>In deze `Time struct` type, voeg je twee properties toe met alleen een getter:
 >>- Voeg een property `Hour` toe om het aantal uur op te vragen. 
@@ -33,8 +31,6 @@
 >>voor de properties: Celsius, Kelvin, Fahrenheit
 >>
 >>Bijvoorbeeld: `new Time(23, 45).Minute` geeft als waarde 45.
->>
->>---
 >>
 >>### Opgave 1.2.2
 >>Wijzig de gegeven `ToString()` methode zodat deze een `Time` waarde formatteert
@@ -55,8 +51,6 @@
 >>Op BB kun je een link vinden over *struct versus class*.
 >>Lees dit eerst voordat je de volgende vraag beantwoord.**
 >>
->>---
->>
 >>### Opgave 1.3
 >>Probeer een niet-statisch veld toe te voegen van type `Time` in de struct type Time.
 >>Je zal merken dat dit problemen geeft. De vraag is nog waarom?
@@ -68,8 +62,6 @@
 >>Waarom is een recursieve definitie voor een class wel mogelijk?
 >>- Waarom kun je wel het volgende veld toevoegen aan de struct Time? 
 >>`static Time noon = new Time(12,0);`
->>
->>--- 
 >>
 >>### Opgave 1.4
 >>Maak het veld `minutes` van de struct-type Time `public` (en niet `readonly`)
