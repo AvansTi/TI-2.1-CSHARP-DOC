@@ -2,7 +2,7 @@
 layout: default
 title: Week 1
 ---
-# C# Programmeren
+# Week 1
 {% include_relative /licence.md %}
 ---
 
@@ -16,11 +16,8 @@ is een eindopdracht. De eindopdracht laat je volgende les zien aan jouw docent.
 # Opgaven week 1
 
 {% include week01/exercise/01-time-struct.md %}
-{: .exercises }
-
 {% include week01/exercise/02-controlegetal.md %}
-{: .exercises }
-
 {% include week01/exercise/03-eindopdracht-week1.md %}
 {: .exercises }
+
 Einde van week 1
