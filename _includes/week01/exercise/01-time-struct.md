@@ -3,7 +3,7 @@
 >>
 >>Een `struct` van het type `Time` kan als volgt gedefinieerd worden:
 >>
->>```c#
+>>```cpp
 >>public struct Time {
 >>    private readonly int minutes;
 >>    public Time(int hh, int mm) {
@@ -77,7 +77,7 @@
 >>
 >>Test vervolgens de volgende code:
 >>
->>```C#
+>>```cpp
 >>Time t1 = new Time(9,30);
 >>Time t2 = t1;
 >>t1.minutes = 100;
