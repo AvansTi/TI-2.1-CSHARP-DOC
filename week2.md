@@ -8,11 +8,9 @@ title: Week 2
 
 # Assignments week 2
 
-{% include week02/exercise/01-stopwatch.md %}
-{% include week02/exercise/02-find-genes.md %}
-{% include week02/exercise/03-palindrome.md %}
-{% include week02/exercise/04-hangman.md %}
-{% include week02/exercise/05-largest-block.md %}
+{% include week02/exercise/01-operator-overloading.md%}
+{% include week02/exercise/02-file-io.md %}
+{% include week02/exercise/03-tcpclient-json.md %}
 {: .exercises }
 
 End of week 2
