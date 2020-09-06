@@ -21,3 +21,4 @@ Maak een getypeerde collectie aan van steden met hun weerdata. Je hebt hiervoor 
 
 ---------------------------------------------------------------------------------
 Alternatief. Je mag ook een andere open rest api gebruiken. 
+{: .exercise}
