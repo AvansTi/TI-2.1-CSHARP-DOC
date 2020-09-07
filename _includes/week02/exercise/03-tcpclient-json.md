@@ -1,9 +1,9 @@
 >> ### Opgave 2.3
 >> Leerdoelen:
->> * Werken met TcpClient 
+>> * Werken met  `TcpClient` 
 >> * Gebruik van JSON data 
->> * Gebruik maken met collecties (List, Dictionary, …)
->> * Serialisatie van data naar een file die je via FileIO opslaat op de computer. 
+>> * Gebruik maken met collecties (`List`, `Dictionary`, …)
+>> * Serialisatie van data naar een file die je via `FileIO` opslaat op de computer. 
 >> * (Reguliere expressie in C# specifiek voor onderstaande eerste alternatief) 
 >>
 >>
