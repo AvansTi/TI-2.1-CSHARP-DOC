@@ -13,12 +13,11 @@
 >> * `CurentDirectory`
 >> * `SpecialFolder.MyPictures` (en vele andere speciale folders)
 >>
->>Voeg bovenstaande eigenschappen toe aan en `List<string>` mySystemProperties structuur en schrijf deze `list<string>` op twee manieren naar een tekstfile: 
+>> Voeg bovenstaande eigenschappen toe aan en `List<string>` mySystemProperties structuur en schrijf deze `list<string>` op twee manieren naar een tekstfile: 
 >>
 >> * `File.WriteAllLines(padnaam, mySystemProperties)` 
 >> * `File.WriteAllText(padnaam, tekst)` In dit geval moet je zelf de `list<string> myProperties` tot één lange string omvormen. Gebruik hiervoor de methode `string.Join(…)`
 >> * Lees de resulterende tekstfile in m.b.v. de tegenhangers `File.ReadAllText()` en `File.ReadAllLines()` 
 >>
->>Test je programma!
->>
+>> Test je programma!
 >{: .exercise}
