@@ -9,9 +9,9 @@ title: Week 2
 # Assignments week 2
 ---
 
-{% include week02/exercise/02-file-io.md %}
-
 {% include week02/exercise/01-operator-overloading.md %}
+
+{% include week02/exercise/02-file-io.md %}
 
 {% include week02/exercise/03-tcpclient-json.md %}
 
