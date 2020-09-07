@@ -1,8 +1,7 @@
 >> ### Opgave 2.2
 >> In deze opdracht ga je enkele gegevens van je systeem wegschreven naar een file. Maak een nieuw console project aan en:
 >>
->> Ga na m.b.v. Console.WriteLine(…) dat je in System.Environment enkele statische properties hebt om:</li>
->>
+>> Ga na m.b.v. `Console.WriteLine(…)` dat je in System.Environment enkele statische properties hebt om:
 >>
 >> * De computernaam
 >> * Besturingssysteem (os versie)  

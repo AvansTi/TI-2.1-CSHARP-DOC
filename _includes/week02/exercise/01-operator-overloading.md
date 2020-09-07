@@ -1,4 +1,5 @@
 >>### Opgave 2.1
+>>
 >>Test het voorbeeld van `class Fraction` en voeg de volgende operators toe: 
 >>
 >>* kleiner dan en groter dan: < en >
@@ -6,7 +7,7 @@
 >>* gelijk en ongelijk aan == en != 
 >>* expliciete cast: public static explicit operator Fraction(int)
 >>
->>Tip voor override van equals: In Visual Studio eq<tab><tab> of override<spatie>. In het tweede geval krijg je methoden te  zien waarvan je nog geen override definite hebt staan in de code. 
+>>Tip voor override van equals: In Visual Studio eq *TAB TAB* of override *SPATIE*. In het tweede geval krijg je methoden te zien waarvan je nog geen override definite hebt staan in de code. 
 >>
 >>
 >{: .exercise}
