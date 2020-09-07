@@ -46,3 +46,4 @@
 >>↵ 
 >><h1>Dit bestand kon niet gevonden worden</h1> 
 >>```
+>{: .exercise}
