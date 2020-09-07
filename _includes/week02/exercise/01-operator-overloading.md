@@ -6,7 +6,7 @@
 >> * **gelijk** en **ongelijk aan** `==` en `!=` 
 >> * expliciete cast: `public static explicit operator Fraction(int)` 
 >>
->>> Tip voor override van equals: In Visual Studio eq<tab><tab> of override<spatie>. In het tweede geval krijg je methoden te  zien waarvan je nog geen override definite hebt staan in de code. 
->>{: .tip}
+>> Tip voor override van equals: In Visual Studio eq<tab><tab> of override<spatie>. In het tweede geval krijg je methoden te  zien waarvan je nog geen override definite hebt staan in de code. 
+>>
 >>
 >{: .exercise}
