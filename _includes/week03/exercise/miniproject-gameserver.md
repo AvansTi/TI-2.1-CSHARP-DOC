@@ -20,6 +20,6 @@
 >>In deze opdracht maak je een game server voor het spelen van het spel Set. De regels van dit spel worden hier uitgelegd: https://nl.wikipedia.org/wiki/Set_(kaartspel). Op de volgende site staat een dagelijkse set puzzel: http://www.setgame.com/set/puzzle 
 >>Over dit spel is de nodige wiskundige achtergrond en statistieken beschreven. Voor de geïnteresseerde in de wiskundige achtergrond: kans op een Set in n kaarten en verder zijn er op internet enkele andere artikelen te vinden. 
 
- 
+>{: .exercise}
 
  
