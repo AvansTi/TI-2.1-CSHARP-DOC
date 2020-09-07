@@ -7,4 +7,4 @@
 >>
 >>Tip voor override van equals: In Visual Studio eq *TAB TAB* of override *SPATIE*. In het tweede geval krijg je methoden te zien waarvan je nog geen override definite hebt staan in de code. 
 >>
->{: .exercise}
+> {: .exercise}
