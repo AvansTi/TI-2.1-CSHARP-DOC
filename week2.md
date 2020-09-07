@@ -7,6 +7,7 @@ title: Week 2
 ---
 
 # Assignments week 2
+---
 
 {% include week02/exercise/01-operator-overloading.md %}
 {: .exercises }
@@ -16,7 +17,6 @@ title: Week 2
 
 {% include week02/exercise/03-tcpclient-json.md %}
 {: .exercises }
-
 
 Einde van week 2
 
