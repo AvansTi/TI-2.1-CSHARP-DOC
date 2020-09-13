@@ -34,3 +34,4 @@
 >>> 2.  Client / Server opzet voor spellen waarbij de timing van het antwoord een rol speelt
 >>>
 >>> Volgende week ga je een GUI hiervoor bouwen.
+>{: .exercise}
