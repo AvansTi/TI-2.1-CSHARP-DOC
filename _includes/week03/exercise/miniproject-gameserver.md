@@ -3,8 +3,8 @@
 >>
 >>#### A. Simpele game-server
 >>Schrijf een TCP server die steeds: 
->>- wacht op twee spelers (eventueel te generaliseren naar een willekeurig aantal spelers, maar dan dien je wel na te gaan hoe de server weet wanneer het spel kan starten. Dus wanneer is de laatste speler toegevoegd?) 
->>- vervolgens in een aparte thread een spel opstart voor deze spelers.  
+>>* wacht op twee spelers (eventueel te generaliseren naar een willekeurig aantal spelers, maar dan dien je wel na te gaan hoe de server weet wanneer het spel kan starten. Dus wanneer is de laatste speler toegevoegd?) 
+>>* vervolgens in een aparte thread een spel opstart voor deze spelers.  
 >>
 >>Beschrijving simpel spel verloop:  
 >>Tijdens een spelsessie krijgen de twee spelers tot een bepaald aantal punten: 
@@ -17,9 +17,7 @@
 >>- in de gamelogica niet een som genereerd maar puzzels/vragen volgens het trivial pursuit spel of game of set of ander spel. 
 >>- een score volgens de spelregels van dit spel bij houdt. 
 >>
->>In deze opdracht maak je een game server voor het spelen van het spel Set. De regels van dit spel worden hier uitgelegd: https://nl.wikipedia.org/wiki/Set_(kaartspel). Op de volgende site staat een dagelijkse set puzzel: http://www.setgame.com/set/puzzle 
+>>In deze opdracht maak je een game server voor het spelen van het spel Set. De regels van dit spel worden hier uitgelegd: [https://nl.wikipedia.org/wiki/Set_(kaartspel)](https://nl.wikipedia.org/wiki/Set_(kaartspel)). Op de volgende site staat een dagelijkse set puzzel: [http://www.setgame.com/set/puzzle](http://www.setgame.com/set/puzzle ) 
 >>Over dit spel is de nodige wiskundige achtergrond en statistieken beschreven. Voor de geïnteresseerde in de wiskundige achtergrond: kans op een Set in n kaarten en verder zijn er op internet enkele andere artikelen te vinden. 
-
+>>
 >{: .exercise}
-
- 

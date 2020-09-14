@@ -8,12 +8,12 @@ title: Week 3
 
 # Assignments week 3
 
-{% include week03/exercise/exercises_week_03.md %}
-
+{% include week03/exercise/01-delegates.md %}
+{% include week03/exercise/02-server-client.md %}
+{% include week03/exercise/03-length-prefixing.md %}
 {% include week03/exercise/miniproject-http-server.md %}
-
 {% include week03/exercise/miniproject-gameserver.md %}
-
 {: .exercises }
 
 End of week 3
+
