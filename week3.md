@@ -10,7 +10,7 @@ title: Week 3
 
 {% include week03/exercise/01-delegates.md %}
 {% include week03/exercise/02-server-client.md %}
-{% include week03/exercise/03-length-prefixing.md %}
+{% include week03/exercise/03-lengrh-prefixing.md %}
 {% include week03/exercise/miniproject-http-server.md %}
 {% include week03/exercise/miniproject-gameserver.md %}
 {: .exercises }
