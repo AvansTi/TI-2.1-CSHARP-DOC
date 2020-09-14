@@ -7,7 +7,7 @@
 >>Host: <hostname>  
 >> 
 >>```
->> Hierbij staat ↵ voor een lege regel (in C# een “\r\n”). Zodra de server dus 2 ↵ achter elkaar binnenkrijgt, kan dit bericht verwerkt worden, en kan er antwoord gegeven worden. De server zal dan eerst wat informatie over dit bestand sturen, en hierna de gegevens die zijn opgevraagd.
+>> Hierbij staat ↵ voor een lege regel (in C# een “\r\n”). Zodra de server dus 2 achter elkaar binnenkrijgt, kan dit bericht verwerkt worden, en kan er antwoord gegeven worden. De server zal dan eerst wat informatie over dit bestand sturen, en hierna de gegevens die zijn opgevraagd.
 >>
 >>#### a. Simpele HTTP-server 
 >>
@@ -18,7 +18,7 @@
 >>
 >>Hallo, dit is mijn internetpagina met tekst 
 >>```
->>Test ook of je http-server het doet door met je internetbrowser (Internet Explorer, Firefox, Chrome, Opera, Safari) te surfen naar http://localhost/ . Let erop dat de ↵ in C# voorgesteld worden met “\r\n”, en niet alleen met “\n” 
+>>Test ook of je http-server het doet door met je internetbrowser (Internet Explorer, Firefox, Chrome, Opera, Safari) te surfen naar [http://localhost/](http://localhost/). Let erop dat de in C# voorgesteld worden met “\r\n”, en niet alleen met “\n” 
 >>
 >>#### b. Basis opzet voor HTTP file server
 >> Maak op basis van deze bestandsnaam de volgende keuzes om terug te sturen: 
@@ -30,7 +30,7 @@
 >>Dit is pagina 2 <a href="/">terug</a> 
 >>```
 >>Als bestandsnaam gelijk is aan “/” 
->>```
+>>```output
 >>HTTP/1.0 200 OK
 >>Content-type: text/html
 >>
@@ -40,7 +40,7 @@
 >>
 >>#### c. HTTP file server 
 >>Maak een uitbreiding op onderdeel b) zodat de bestandsnaam nu wordt opgezocht in een directory op je harde schijf. Indien het bestand bestaat, moet dit bestand naar de client gestuurd worden. Indien het bestand niet bestaat, moet de volgende data teruggegeven worden: 
->>```
+>>```output
 >>HTTP/1.0 404 Not Found
 >>Content-type: text/html
 >>
