@@ -1,8 +1,8 @@
->>#### Opgave 1
+>>### Opgave 1
 >>
 >> Tijdens de eerste opdracht maken we kennis met de basis concepten van C# zoals strucs, classes, formatting, etc.
 >>
->> Opgave 1.1
+>>#### Opgave 1.1
 >>Een `Time` waarde representeert een tijdstip van de dag zoals 10:05 of 00:45 als het aantal minuten vanaf middernacht (605 en 45 in deze voorbeelden). 
 >>
 >>Een `struct` van het type `Time` kan als volgt gedefinieerd worden:
