@@ -8,7 +8,7 @@
 >>van 2 karakters terug te geven:
 >>
 >>```cpp
->>public static string BerekenControleGetal (string rekeningIdentificatie, string landcode)
+>>public static string BerekenControleGetal(string rekeningIdentificatie, string landcode)
 >>```
 >>
 >>Tips:

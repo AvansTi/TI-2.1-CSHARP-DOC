@@ -2,11 +2,10 @@
 layout: default
 title: Week 3
 ---
-# Week 3
 {% include_relative /licence.md %}
----
 
-# Assignments week 3
+
+# Opdrachten week 3
 
 {% include week03/exercise/01-delegates.md %}
 {% include week03/exercise/02-server-client.md %}
@@ -24,5 +23,5 @@ Volgende week ga je een GUI hiervoor bouwen.
 {% include week03/exercise/miniproject-gameserver.md %}
 {: .exercises }
 
-End of week 3
+Einde van week 3
 

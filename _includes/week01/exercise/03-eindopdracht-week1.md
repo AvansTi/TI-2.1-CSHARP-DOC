@@ -6,9 +6,9 @@
 >>- Gebruik ergens een enumerated type (Bijvoorbeeld voor filmtype)
 >>- Maak ergens gebruik van een List\<t\> en de foreach-loop
 >>- Maak ergens gebruik van ref en/of out parameters
->>- Maak gebruik van Tuple types, zoals (int,string).
+>>- Maak gebruik van `Tuple` types, zoals `(int, string)`.
 >>Hiervoor heb je de laatste versie van Visual Studio nodig en bij property
->>van het project moet de Target Framework >= 4.7 zijn.
+>>van het project moet de Target Framework >= 5 zijn.
 >>- Probeer gebruik te maken van interface en/of overerving en
 >>- Maak bij toepassing van overerving gebruik van checked type casts
 >>
@@ -40,6 +40,6 @@
 >>voor sms’en bepaald. Voor een klant wordt een opgegeven periode (maand of anders)
 >>een factuur gemaakt, met ook een totaalprijs. 
 >>
->>Maak o.a. klassen: BelSessie, Factuur, Abonnement en FacturenSysteem
+>>Maak o.a. klassen: `BelSessie`, `Factuur`, `Abonnement` en `FacturenSysteem`
 >>
 >{: .exercise}

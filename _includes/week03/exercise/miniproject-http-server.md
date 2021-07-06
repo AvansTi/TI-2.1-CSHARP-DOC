@@ -7,7 +7,7 @@
 >>Host: <hostname>  
 >> 
 >>```
->> Hierbij staat ↵ voor een lege regel (in C# een “\r\n”). Zodra de server dus 2 achter elkaar binnenkrijgt, kan dit bericht verwerkt worden, en kan er antwoord gegeven worden. De server zal dan eerst wat informatie over dit bestand sturen, en hierna de gegevens die zijn opgevraagd.
+>> Hierbij staat NEWLINE voor een lege regel (in C# een “\r\n”). Zodra de server dus 2 achter elkaar binnenkrijgt, kan dit bericht verwerkt worden, en kan er antwoord gegeven worden. De server zal dan eerst wat informatie over dit bestand sturen, en hierna de gegevens die zijn opgevraagd.
 >>
 >>#### a. Simpele HTTP-server 
 >>

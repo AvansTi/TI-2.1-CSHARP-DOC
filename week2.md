@@ -2,12 +2,8 @@
 layout: default
 title: Week 2
 ---
-# Week 2
-{% include_relative /licence.md %}
----
 
-# Assignments week 2
----
+# Opdrachten week 2
 
 {% include week02/exercise/01-operator-overloading.md %}
 {% include week02/exercise/02-file-io.md %}

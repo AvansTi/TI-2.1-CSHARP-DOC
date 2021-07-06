@@ -1,4 +1,4 @@
->> ### Oefening C# 3.2 client / server
+>> ### Opgave 3.2 client / server
 >> Test het gegeven Client / Server voorbeeld. Test de volgende situaties
 >>* Verschillende coderingen: tekst, byte buffer
 >>* Meerdere clients

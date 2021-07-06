@@ -1,4 +1,8 @@
->>### Opgave 1.1
+>>#### Opgave 1
+>>
+>> Tijdens de eerste opdracht maken we kennis met de basis concepten van C# zoals strucs, classes, formatting, etc.
+>>
+>> Opgave 1.1
 >>Een `Time` waarde representeert een tijdstip van de dag zoals 10:05 of 00:45 als het aantal minuten vanaf middernacht (605 en 45 in deze voorbeelden). 
 >>
 >>Een `struct` van het type `Time` kan als volgt gedefinieerd worden:
@@ -17,7 +21,7 @@
 >>```
 >>
 >>Maak een Visual Studio C# console project met de naam *TestTime* en voeg bovenstaande `Time` definitie toe.
->>Voeg aan de Main methode enkele testwaarden toe van type `Time`, en print de `Time` waarden m.b.v. `Console.WriteLine`.
+>>Voeg aan de `Main` methode enkele testwaarden toe van type `Time`, en print de `Time` waarden m.b.v. `Console.WriteLine`.
 >>
 >>Schrijf testcode om je  programma te testen.
 >>De volgende onderdelen gaan verder met deze `Time` structuur.
@@ -44,7 +48,7 @@
 >>
 >>*Extra uitdaging*: implementeer het interface `IFormattable` om een `Time` waarde
 >>op verschillende manieren te kunnen afdrukken.
->>(Tip: gebruik de Visual Studio \<CTRL\> . om een stub te genereren voor het
+>>(Tip: gebruik de Visual Studio \<CTRL\> \<.\> om een stub te genereren voor het
 >>implementeren van een interface.)
 >>
 >>**In de volgende oefening test je een verschil tussen classes en structs.
@@ -52,15 +56,15 @@
 >>Lees dit eerst voordat je de volgende vraag beantwoord.**
 >>
 >>#### Opgave 1.3
->>Probeer een niet-statisch veld toe te voegen van type `Time` in de struct type Time.
+>>Probeer een niet-statisch veld toe te voegen van type `Time` in de struct type `Time`.
 >>Je zal merken dat dit problemen geeft. De vraag is nog waarom?
 >>
 >>Dit is dus recursieve definitie, in het geval van Time niet erg zinvol,
 >>maar voor bijvoorbeeld een definitie van `Node` uit een `LinkedList` zou je een
 >>dergelijke recursieve definitie wel willen. 
 >>- Waarom kun je bij een recursief datatype in C# geen struct gebruiken?
->>Waarom is een recursieve definitie voor een class wel mogelijk?
->>- Waarom kun je wel het volgende veld toevoegen aan de struct Time? 
+>>- Waarom is een recursieve definitie voor een class wel mogelijk?
+>>- Waarom kun je wel het volgende veld toevoegen aan de `struct Time`? 
 >>`static Time noon = new Time(12,0);`
 >>
 >>#### Opgave 1.4

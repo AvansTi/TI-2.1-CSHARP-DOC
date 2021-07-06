@@ -2,9 +2,10 @@
 layout: default
 title: Week 1
 ---
-# Week 1
 {% include_relative /licence.md %}
----
+
+# Opdrachten week 1
+
 ## Doel:
 Tijdens het eerste practicum ga je kennis maken met Visual Studio en een aantal
 basisconcepten in C#. Hierbij zijn opgave 1 en 2 oefenopdrachten en opgave 3
