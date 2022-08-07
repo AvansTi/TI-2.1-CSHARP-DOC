@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Week 6
+title: Week 5
 ---
 {% include_relative /licence.md %}
 ---
-# Lab week 6
+# Lab week 5
 Contents yet to be determined.
 
-# Assignments week 6
+# Assignments week 5
 
-{% include week06/exercise/01-empty.md %}
+{% include week05/exercise/01-empty.md %}
 {: .exercises }
 
-End of week 6
+End of week 5

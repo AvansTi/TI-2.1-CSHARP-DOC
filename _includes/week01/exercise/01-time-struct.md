@@ -1,8 +1,8 @@
->>### Opgave 1
+>>### Opgave 1.1 Structs
 >>
->> Tijdens de eerste opdracht maken we kennis met de basis concepten van C# zoals strucs, classes, formatting, etc.
+>> Tijdens de eerste opdracht maken we kennis met de basis concepten van C# zoals structs, classes, formatting, etc.
 >>
->>#### Opgave 1.1
+>>#### Opgave 1.1.1
 >>Een `Time` waarde representeert een tijdstip van de dag zoals 10:05 of 00:45 als het aantal minuten vanaf middernacht (605 en 45 in deze voorbeelden). 
 >>
 >>Een `struct` van het type `Time` kan als volgt gedefinieerd worden:
@@ -26,7 +26,7 @@
 >>Schrijf testcode om je  programma te testen.
 >>De volgende onderdelen gaan verder met deze `Time` structuur.
 >>
->>#### Opgave 1.2.1
+>>#### Opgave 1.1.2.1
 >>In deze `Time struct` type, voeg je twee properties toe met alleen een getter:
 >>- Voeg een property `Hour` toe om het aantal uur op te vragen. 
 >>- Voeg een property `Minute` om het aantal minuten op te vragen.
@@ -36,7 +36,7 @@
 >>
 >>Bijvoorbeeld: `new Time(23, 45).Minute` geeft als waarde 45.
 >>
->>#### Opgave 1.2.2
+>>#### Opgave 1.1.2.2
 >>Wijzig de gegeven `ToString()` methode zodat deze een `Time` waarde formatteert
 >>als hh:mm, bijvoorbeeld 10:05, in plaats van 605. Werk de methode uit op twee manieren:
 >>- M.b.v. de `String.Format` methode.
@@ -55,7 +55,7 @@
 >>Op BB kun je een link vinden over *struct versus class*.
 >>Lees dit eerst voordat je de volgende vraag beantwoord.**
 >>
->>#### Opgave 1.3
+>>#### Opgave 1.1.3
 >>Probeer een niet-statisch veld toe te voegen van type `Time` in de struct type `Time`.
 >>Je zal merken dat dit problemen geeft. De vraag is nog waarom?
 >>
@@ -67,7 +67,7 @@
 >>- Waarom kun je wel het volgende veld toevoegen aan de `struct Time`? 
 >>`static Time noon = new Time(12,0);`
 >>
->>#### Opgave 1.4
+>>#### Opgave 1.1.4
 >>Maak het veld `minutes` van de struct-type Time `public` (en niet `readonly`)
 >>in plaats van `private readonly`. 
 >>

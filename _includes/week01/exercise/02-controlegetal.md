@@ -1,4 +1,4 @@
->>### Opgave 2. Gebruik van bibliotheken
+>>### Opgave 1.2 Controlegetal (gebruik van bibliotheken)
 >>
 >>Bij het aanmaken van een nieuwe klant wordt een nieuw uniek rekeningnummer aangemaakt.
 >>Dit nieuwe rekeningnummer moet voldoen aan de IBAN structuur.

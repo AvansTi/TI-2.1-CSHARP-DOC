@@ -1,4 +1,4 @@
->>### Opgave 3: mini casus (eindopdracht week 1)
+>>### Eindopdracht week 1: mini casus
 >>
 >>Met de volgende C# taalelementen ga je oefenen:
 >>- Maak gebruik van één of meer datum/tijd typen: TimeSpan, DateTime, DateTimeOffSet

@@ -3,18 +3,20 @@ layout: default
 title: Week 1
 ---
 {% include_relative /licence.md %}
-
-# Opdrachten week 1
+---
+# Practicum week 1
 
 ## Doel:
-Tijdens het eerste practicum ga je kennis maken met Visual Studio en een aantal
-basisconcepten in C#. Hierbij zijn opgave 1 en 2 oefenopdrachten en opgave 3
-is een eindopdracht. De eindopdracht laat je volgende les zien aan jouw docent.
+Tijdens dit eerste practicum ga je kennis maken met Visual Studio en een aantal
+basisconcepten in C#. Daarvoor maak je een aantal oefenopgaven, in dit geval opgave 1.1 en 1.2. De eindopdracht laat je in de volgende les zien aan jouw docent.
 
-# Opgaven week 1
+# Oefenopgaven week 1
 
 {% include week01/exercise/01-time-struct.md %}
 {% include week01/exercise/02-controlegetal.md %}
+{: .exercises }
+
+# Eindopdracht week 1
 {% include week01/exercise/03-eindopdracht-week1.md %}
 {: .exercises }
 
