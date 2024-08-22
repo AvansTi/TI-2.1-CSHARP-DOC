@@ -1,4 +1,4 @@
->>### Eindopdracht week 1: mini casus
+>>### Eindopdracht week 1: Mini casus
 >>
 >>Met de volgende C# taalelementen ga je oefenen:
 >>- Maak gebruik van één of meer datum/tijd typen: TimeSpan, DateTime, DateTimeOffSet
@@ -14,7 +14,7 @@
 >>
 >>Werk een console applicatie uit voor bijvoorbeeld één van de volgende situaties:
 >>
->>#### Optie 1. Bioscoop agenda. 
+>>#### Optie 1. Bioscoop agenda
 >>Maak een applicatie om voor een bioscoop een agenda van de actuele films te maken.
 >>Van iedere filmvoorstelling wordt vastgelegd:
 >>- titel
@@ -27,7 +27,7 @@
 >>gezocht worden naar een film. Ook kan de bioscoopagenda van een hele week getoond worden.
 >>Maak de klassen: `FilmVoorstelling`, `enum FilmType`, `Agenda` en `TestAgenda`
 >>
->>#### Optie 2. Facturering GSM abonnement. 
+>>#### Optie 2. Facturering GSM abonnement
 >>Een aanbieder van GSM abonnementen wil een factureringssysteem bouwen voor het
 >>factureren van zijn klanten. Voor iedere klant wordt aan het eind van iedere maand
 >>de kosten bepaald aan de hand van een lijst belsessies en het soort abonnement

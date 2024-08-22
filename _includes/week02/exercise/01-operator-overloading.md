@@ -1,7 +1,7 @@
->> ### Opgave 2.1
+>> ### Opgave 2.1 Operator overloading
 >> Test het voorbeeld van `class Fraction` en voeg de volgende operators toe: 
 >> * kleiner dan en groter dan: < en >
->> * In Visual Studio 2019 krijg je bij methoden die bestaan uit één statement, de hint om deze te wijzigen naar een expression body. Bekijk het verschil tussen beide notaties.
+>> * In Visual Studio krijg je bij methoden die bestaan uit één statement, de hint om deze te wijzigen naar een expression body. Bekijk het verschil tussen beide notaties.
 >> * gelijk en ongelijk aan == en != 
 >> * expliciete cast: `public static explicit operator Fraction(int)`
 >>
